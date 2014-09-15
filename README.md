@@ -3,7 +3,7 @@ KDTree
 
 Java implementation of an n-dimensional KD-tree.
 
-This is my final project for CS 1332 - Data Structures and Algorithms at Georgia Tech. The assignment was to pick a suffienciently difficult data structure (i.e. not a linked list or standard binary tree) and implement it.
+This was my final project for CS 1332 - Data Structures and Algorithms at Georgia Tech. The assignment was to pick a suffienciently difficult data structure (i.e. not a linked list or standard binary tree) and implement it.
 
 The KD tree is a space partitioning tree that is particularly suited for running nearest-neighbors search on large datasets. 
 
